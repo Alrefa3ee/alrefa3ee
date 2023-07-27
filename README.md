@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alrefa3ee.me](https://alrefa3ee.me)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript** , **python**
 
 - 📫 How to reach me **alrefa3ee.abd@gmail.com**
 
