@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alrefa3ee&label=Profile%20views&color=0e75b6&style=flat" alt="alrefa3ee" /> </p>
 
-- 🌱 I’m currently learning **React, Arduino, Raspberry pi**
+- 🌱 I’m currently learning **React, tailwind, How to live**
 
 - 🤝 I’m looking for help with **arabic content**
 
